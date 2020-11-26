@@ -1,4 +1,4 @@
-# Christina Proxy
+# Connor Proxy
 
 > Project description
 
